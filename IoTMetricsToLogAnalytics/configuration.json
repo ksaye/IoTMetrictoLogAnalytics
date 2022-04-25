@@ -1,0 +1,13 @@
+{
+    "_comments1": "eventHubName and consumerGroup are optional",
+    "_comments2": "Blob Storage information is needed to hold Checkpoint files for the EventHub Reader",
+    "ehubNamespaceConnectionString": "<>",
+    "eventHubName": "<>",
+    "consumerGroup": "<>",
+    "blobStorageConnectionString": "<>",
+    "blobContainerName": "<>",
+    "IoTHubResourceId": "<>",
+    "LogAnalyticsWorkspaceId": "<>",
+    "LogAnalyticsWorkspaceKey": "<>"
+  }
+  
